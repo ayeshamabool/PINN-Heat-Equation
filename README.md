@@ -171,9 +171,7 @@ No installation is required when using Google Colab. All dependencies are pre-in
 ### Option 2: Local Installation
 
 ```bash
-pip install torch numpy matplotlib jupyter
-jupyter notebook FDM_Heat_Equation_Solver_Updated_Step1.ipynb
-
+pip install torch numpy matplotlib jupyter nootebook
 ```
 **Requirements:**
 
@@ -181,8 +179,6 @@ jupyter notebook FDM_Heat_Equation_Solver_Updated_Step1.ipynb
 - PyTorch
 - NumPy
 - Matplotlib
-
-No installation is required when using Google Colab. All dependencies are pre-installed.
 
 ---
 
